@@ -19,8 +19,8 @@ public class App {
 
         while (numeroWhile < 3){
 
-            System.out.println("Numero While = "+numeroWhile);
             numeroWhile++;
+            System.out.println("Numero While = "+numeroWhile);
 
         }
 
@@ -29,8 +29,8 @@ public class App {
 
         do{
 
-            System.out.println("Numero Do While = "+numeroDoWhile);
             numeroDoWhile++;
+            System.out.println("Numero Do While = "+numeroDoWhile);
 
         }while(numeroDoWhile<3);
 
